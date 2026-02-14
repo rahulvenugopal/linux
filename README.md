@@ -3,9 +3,11 @@ Portfolios/website with linux theme
 
 ## Demos
 * https://vivek9patel.github.io
+* https://rahulvenugopal.github.io/portfolio-os/
 
 ## Repositories
 * https://github.com/vivek9patel/vivek9patel.github.io
+* https://github.com/rahulvenugopal/portfolio-os
 
 ## Developers
 <table>
